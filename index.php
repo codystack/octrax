@@ -125,11 +125,26 @@ include ('./components/navbar.php');
 						</div>
 					</div>
 				</div>
-
-
 			</div>
 		</div>
 		<div class="degree-left"></div>
+	</section>
+
+	<section class="testimony-section mb-6">
+		<div class="container">
+			<div class="row mt-5">
+				<div class="col-md-12">
+					<div class="intro p-md-4 py-md-5 p-2 rounded img" style="background-image: url(images/bgxx.jpg);">
+						<div class="col-md-6 ftco-animate">
+							<span>Get Started</span>
+							<h2>Have a project?</h2>
+							<p>It is our aspirations to meet all clientele expectation through swift, safe and quality delivery of CLIENTS products through efficient project management with total respect and partnership with her host communities.</p>
+							<p><a href="contact" class="btn btn-primary">Get started</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</section>
 
 <?php include('./components/footer.php'); ?>

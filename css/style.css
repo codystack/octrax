@@ -6854,6 +6854,10 @@ button.bg-dark:focus {
 .my-5 {
   margin-bottom: 3rem !important; }
 
+.mb-6,
+.my-6 {
+  margin-bottom: 9rem !important; }
+
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important; }
@@ -9290,7 +9294,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  padding: 7em 0;
+  padding: 4em 0;
   background: black;
   position: relative; }
   .ftco-footer .ftco-footer-logo {
