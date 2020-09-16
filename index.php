@@ -89,7 +89,7 @@ include ('./components/navbar.php');
 	<section class="ftco-section ftco-portfolio bg-light">
 		<div class="row justify-content-center no-gutters">
 			<div class="col-md-12 heading-section text-center ftco-animate mb-5">
-				<h2 class="mb-2">Our Works</h2>
+				<h2 class="mb-2">Our Services</h2>
 			</div>
 		</div>
 
@@ -97,7 +97,7 @@ include ('./components/navbar.php');
 			<div class="row no-gutters">
 				<div class="col-md-12 portfolio-wrap mt-0">
 					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 img" style="background-image: url(images/work-1.jpg);">
+						<div class="col-md-5 img" style="background-image: url(https://i.imgur.com/gWPwpGY.jpg);">
 							
 						</div>
 						<div class="col-md-7">
@@ -105,19 +105,19 @@ include ('./components/navbar.php');
 								<div class="px-4 px-lg-4">
 									<div class="desc">
 										<div class="top">
-											<span class="subheading">Web Design</span>
-											<h2 class="mb-2"><a href="work.html">Cassette tape</a></h2>
+											<h2 class="mb-2"><a href="#">What we do</a></h2>
 										</div>
 										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="icon d-flex align-items-center mb-4">
-												<div class="img" style="background-image: url(images/person_1.jpg);"></div>
-												<div class="position pl-3">
-													<h4 class="mb-0">Jamie Jonson</h4>
-													<span>avo.com</span>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
+											<p>With a combined team of experienced professionals, we are able to deliver to our clients the best services in the following areas.
+												<ul>
+													<li>Oilfield Support Services</li>
+													<li>Customs Brokerage Solutions</li>
+													<li>Air/Ocean Freight</li>
+													<li>Project Logistics/Rigmoves</li>
+													<li>Procurement/Supply Chain solutions</li>
+												</ul>
+											</p>
+											<p><a href="services" class="btn btn-primary">See our services</a></p>
 										</div>
 									</div>
 								</div>
@@ -126,273 +126,10 @@ include ('./components/navbar.php');
 					</div>
 				</div>
 
-				<div class="col-md-12 portfolio-wrap">
-					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 order-md-last img" style="background-image: url(images/work-2.jpg);">
-							
-						</div>
-						<div class="col-md-7">
-							<div class="text pt-5 pr-md-5 ftco-animate">
-								<div class="px-4 px-lg-4">
-									<div class="desc text-md-right">
-										<div class="top">
-											<span class="subheading">Application</span>
-											<h2 class="mb-2"><a href="work.html">Miniwall Clock</a></h2>
-										</div>
-										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="d-flex w-100">
-												<div class="icon d-flex align-items-center ml-md-auto mb-4">
-													<div class="img" style="background-image: url(images/person_2.jpg);"></div>
-													<div class="position pl-3 text-left">
-														<h4 class="mb-0">Jamie Jonson</h4>
-														<span>avo.com</span>
-													</div>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 
-				<div class="col-md-12 portfolio-wrap">
-					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 img" style="background-image: url(images/work-3.jpg);">
-							
-						</div>
-						<div class="col-md-7">
-							<div class="text pt-5 pl-md-5 pl-md-4 ftco-animate">
-								<div class="px-4 px-lg-4">
-									<div class="desc">
-										<div class="top">
-											<span class="subheading">UI/UX Design</span>
-											<h2 class="mb-2"><a href="work.html">Avo Portfolio Agency</a></h2>
-										</div>
-										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="icon d-flex align-items-center mb-4">
-												<div class="img" style="background-image: url(images/person_3.jpg);"></div>
-												<div class="position pl-3">
-													<h4 class="mb-0">Jamie Jonson</h4>
-													<span>avo.com</span>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-md-12 portfolio-wrap">
-					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 order-md-last img" style="background-image: url(images/work-4.jpg);">
-							
-						</div>
-						<div class="col-md-7">
-							<div class="text pt-5 pr-md-5 ftco-animate">
-								<div class="px-4 px-lg-4">
-									<div class="desc text-md-right">
-										<div class="top">
-											<span class="subheading">Web Development</span>
-											<h2 class="mb-2"><a href="work.html">Hand Writing</a></h2>
-										</div>
-										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="d-flex w-100">
-												<div class="icon d-flex align-items-center ml-md-auto mb-4">
-													<div class="img" style="background-image: url(images/person_2.jpg);"></div>
-													<div class="position pl-3 text-left">
-														<h4 class="mb-0">Jamie Jonson</h4>
-														<span>avo.com</span>
-													</div>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-md-12 portfolio-wrap">
-					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 img" style="background-image: url(images/work-5.jpg);">
-							
-						</div>
-						<div class="col-md-7">
-							<div class="text pt-5 pl-md-5 pl-md-4 ftco-animate">
-								<div class="px-4 px-lg-4">
-									<div class="desc">
-										<div class="top">
-											<span class="subheading">Illustration</span>
-											<h2 class="mb-2"><a href="work.html">Keyboard</a></h2>
-										</div>
-										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="icon d-flex align-items-center mb-4">
-												<div class="img" style="background-image: url(images/person_2.jpg);"></div>
-												<div class="position pl-3">
-													<h4 class="mb-0">Jamie Jonson</h4>
-													<span>avo.com</span>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-md-12 portfolio-wrap">
-					<div class="row no-gutters align-items-center">
-						<div class="col-md-5 order-md-last img" style="background-image: url(images/work-6.jpg);">
-							
-						</div>
-						<div class="col-md-7">
-							<div class="text pt-5 pr-md-5 ftco-animate">
-								<div class="px-4 px-lg-4">
-									<div class="desc text-md-right">
-										<div class="top">
-											<span class="subheading">Web Development</span>
-											<h2 class="mb-2"><a href="work.html">Spiral</a></h2>
-										</div>
-										<div class="absolute">
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-											<div class="d-flex w-100">
-												<div class="icon d-flex align-items-center ml-md-auto mb-4">
-													<div class="img" style="background-image: url(images/person_2.jpg);"></div>
-													<div class="position pl-3 text-left">
-														<h4 class="mb-0">Jamie Jonson</h4>
-														<span>avo.com</span>
-													</div>
-												</div>
-											</div>
-											<p><a href="#" class="custom-btn">View Portfolio</a></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 		<div class="degree-left"></div>
-	</section>
-
-	<section class="ftco-section testimony-section">
-		<div class="container">
-			<div class="row justify-content-center mb-5">
-				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-3">Clients Says About Us?</h2>
-				</div>
-			</div>
-			<div class="row ftco-animate mb-4">
-				<div class="col-md-12">
-					<div class="carousel-testimony owl-carousel">
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="text">
-									<span class="fa fa-quote-left"></span>
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="text">
-									<span class="fa fa-quote-left"></span>
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="text">
-									<span class="fa fa-quote-left"></span>
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="text">
-									<span class="fa fa-quote-left"></span>
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="text">
-									<span class="fa fa-quote-left"></span>
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="row pt-5">
-				<div class="col-md-12">
-					<div class="intro p-md-4 py-md-5 p-2 rounded img" style="background-image: url(images/bg_1.jpg);">
-						<div class="col-md-6 ftco-animate">
-							<span>Get Started</span>
-							<h2>Have a project?</h2>
-							<p>It is our aspirations to meet all clientele expectation through swift, safe and quality delivery of CLIENTS products through efficient project management with total respect and partnership with her host communities.</p>
-							<p><a href="contact" class="btn btn-primary">Get started</a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</section>
 
 <?php include('./components/footer.php'); ?>

@@ -78,7 +78,7 @@ include ('./components/navbar.php');
 
 			<div class="row pt-5">
 				<div class="col-md-12">
-					<div class="intro p-md-4 py-md-5 p-2 rounded img" style="background-image: url(images/bg_1.jpg);">
+					<div class="intro p-md-4 py-md-5 p-2 rounded img" style="background-image: url(images/bgxx.jpg);">
 						<div class="col-md-6 ftco-animate">
 							<span>Get Started</span>
 							<h2>Have a project?</h2>
