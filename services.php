@@ -18,7 +18,7 @@ include ('./components/navbar.php');
 	<section class="ftco-section ftco-portfolio">
 		<div class="row justify-content-center no-gutters">
 			<div class="col-md-12 heading-section text-center ftco-animate mb-5">
-				<h2 class="mb-2">Our Services</h2>
+				<h2 class="mb-2">What we do</h2>
 				<p>With a combined team of experienced professionals, <br>we are able to deliver to our clients the best services in the following areas.</p>
 			</div>
 		</div>

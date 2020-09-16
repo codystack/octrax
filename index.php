@@ -136,9 +136,14 @@ include ('./components/navbar.php');
 				<div class="col-md-12">
 					<div class="intro p-md-4 py-md-5 p-2 rounded img" style="background-image: url(images/bgxx.jpg);">
 						<div class="col-md-6 ftco-animate">
-							<span>Get Started</span>
-							<h2>Have a project?</h2>
-							<p>It is our aspirations to meet all clientele expectation through swift, safe and quality delivery of CLIENTS products through efficient project management with total respect and partnership with her host communities.</p>
+							<h2><strong>Affiliations and Partnerships</strong></h2>
+							<p>We have sound working relationship with different companies – Locally & Globally. Some are:
+							<br>Cloudlog Nigeria Limited,
+							Ma Cascee International Limited,
+							Hopsun Nigeria Limited,
+							Transerve Support Services,
+							Brightway Leasing etc
+							</p>
 							<p><a href="contact" class="btn btn-primary">Get started</a></p>
 						</div>
 					</div>

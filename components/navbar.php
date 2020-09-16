@@ -10,7 +10,15 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a href="\" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">About</a></li>
-                <li class="nav-item"><a href="services" class="nav-link">Services</a></li>
+                <li class="nav-item dropdown">
+                <a class="nav-link  dropdown-toggle" href="services" data-toggle="dropdown">Services</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="oilfield-support-services">Oilfield Support Services</a></li>
+                        <li><a class="dropdown-item" href="custom-brokerage-solutions">Custom Brokerage Solutions</a></li>
+                        <li><a class="dropdown-item" href="project-logistics">Project Logistics/Rigmoves</a></li>
+                        <li><a class="dropdown-item" href="procurement">Procurement/Supply Chain Solutions</a></li>
+                    </ul>
+                </li>
                 <li class="nav-item"><a href="clients" class="nav-link">Our Clients</a></li>
                 <li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
             </ul>
