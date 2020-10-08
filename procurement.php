@@ -1,4 +1,5 @@
 <?php
+$page = 'procurement';
 include ('./components/header.php');
 include ('./components/navbar.php');
 ?>

@@ -1,4 +1,5 @@
 <?php
+$page = 'clients';
 include ('./components/header.php');
 include ('./components/navbar.php');
 ?>

@@ -8,19 +8,19 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a href="\" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about" class="nav-link">About</a></li>
+                <li class="nav-item <?php if($page=='home'){echo 'active';}?>"><a href="\" class="nav-link">Home</a></li>
+                <li class="nav-item <?php if($page=='about'){echo 'active';}?>"><a href="about" class="nav-link">About</a></li>
                 <li class="nav-item dropdown">
-                <a class="nav-link  dropdown-toggle" href="services" data-toggle="dropdown">Services</a>
+                <a class="nav-link  dropdown-toggle <?php if($page=='services'){echo 'active';}?>" href="services" data-toggle="dropdown">Services</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="oilfield-support-services">Oilfield Support Services</a></li>
-                        <li><a class="dropdown-item" href="custom-brokerage-solutions">Custom Brokerage Solutions</a></li>
-                        <li><a class="dropdown-item" href="project-logistics">Project Logistics/Rigmoves</a></li>
-                        <li><a class="dropdown-item" href="procurement">Procurement/Supply Chain Solutions</a></li>
+                        <li class="<?php if($page=='clients'){echo 'active';}?>"><a class="dropdown-item" href="oilfield-support-services">Oilfield Support Services</a></li>
+                        <li class="<?php if($page=='clients'){echo 'active';}?>"><a class="dropdown-item" href="custom-brokerage-solutions">Custom Brokerage Solutions</a></li>
+                        <li class="<?php if($page=='clients'){echo 'active';}?>"><a class="dropdown-item" href="project-logistics">Project Logistics/Rigmoves</a></li>
+                        <li class="<?php if($page=='procurement'){echo 'active';}?>"><a class="dropdown-item" href="procurement">Procurement/Supply Chain Solutions</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="clients" class="nav-link">Our Clients</a></li>
-                <li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
+                <li class="nav-item <?php if($page=='clients'){echo 'active';}?>"><a href="clients" class="nav-link">Our Clients</a></li>
+                <li class="nav-item <?php if($page=='contact'){echo 'active';}?>"><a href="contact" class="nav-link">Contact</a></li>
             </ul>
         </div>
     </div>
